@@ -45,8 +45,17 @@ It replicates the core UI of Spotify, allowing users to explore a music dashboar
 
 <img width="1920" height="1032" alt="Screenshot 2025-08-08 100845" src="https://github.com/user-attachments/assets/66db520f-9e2a-41c9-be30-a8b0c9989298" />
 
+## ⚠️ Limitations
+- ⛔ File Size Restrictions
+- GitHub limits individual file uploads to 100 MB.
+- This is a pure frontend clone.
+- There is no real Spotify API integration, music database, login, or playlists.
+- All music data is hardcoded for demo purposes.
+- ** So I use the netlify for host thorugh my drive. **
 
 ## 📦 Installation / Run Locally
 
-1. Check this repository:
+1. Check Github local server :
    https://ayushrf.github.io/Spotify-Clone-/
+2. Check Netlify local server :
+   https://superb-froyo-1d90b1.netlify.app/
