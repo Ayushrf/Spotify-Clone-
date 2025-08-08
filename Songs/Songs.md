@@ -33,7 +33,6 @@ This file lists all the songs available in the Spotify Clone UI. Each song inclu
 
 ## 📂 Notes
 
-- This list reflects the songs currently shown as demo cards in the UI.
 - Actual audio files are not streamed or hosted due to actual host limitations.
 - Song images, titles, and artists are for educational/demo purposes only.
 
