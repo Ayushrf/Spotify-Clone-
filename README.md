@@ -48,6 +48,5 @@ It replicates the core UI of Spotify, allowing users to explore a music dashboar
 
 ## 📦 Installation / Run Locally
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+1. Check this repository:
+   https://ayushrf.github.io/Spotify-Clone-/
