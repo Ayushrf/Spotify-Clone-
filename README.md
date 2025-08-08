@@ -51,7 +51,7 @@ It replicates the core UI of Spotify, allowing users to explore a music dashboar
 - This is a pure frontend clone.
 - There is no real Spotify API integration, music database, login, or playlists.
 - All music data is hardcoded for demo purposes.
-- ** So I use the netlify for host thorugh my drive. **
+- **So I use the netlify for host thorugh my drive.**
 
 ## 📦 Installation / Run Locally
 
